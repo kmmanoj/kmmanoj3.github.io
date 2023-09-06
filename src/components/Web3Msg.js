@@ -10,7 +10,7 @@ const CONNECT_TO_SEPOLIA = (
         </a></u>
         &nbsp; blog article's "choose your destination" section to learn how.<br/><br/>
         <small>
-            I dont want to take any fuss. Take me to <u><a href="https://www.kmmanoj.com">Web2.0 based website</a></u>!
+            I dont want to take any fuss. Take me to <u><a href="https://kmmanoj.github.io">Web2.0 based website</a></u>!
         </small>
     </div>
 );
@@ -22,7 +22,7 @@ const GET_A_WALLET = (
         </a></u>
         &nbsp; to create your wallet and join the party!<br/><br/>
         <small>
-            I prefer web2 tech. Take me <u><a href="https://www.kmmanoj.com">there</a></u>!
+            I prefer web2 tech. Take me <u><a href="https://kmmanoj.github.io">there</a></u>!
         </small>
     </div>
 );
